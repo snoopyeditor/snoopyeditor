@@ -90,9 +90,6 @@ Tenho foco em **código limpo, otimizado e escalável**, utilizando boas prátic
 
   **Vamos criar algo épico juntos?** 🚀
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
   <br/>
   <sub>Desenvolvido com ❤️ e café ☕</sub>
 
