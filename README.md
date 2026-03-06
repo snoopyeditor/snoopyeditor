@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/main/profile.png?raw=true" width="150" height="150" style="border-radius: 50%;" alt="Foto de Perfil"/>
+  <img src="https://github.com/snoopyeditor/snoopyeditor/blob/main/profile.png?raw=true" width="150" height="150" style="border-radius: 50%;" alt="Foto de Perfil"/>
 
   # Olá, sou o Tony 👋
 
