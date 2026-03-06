@@ -62,7 +62,7 @@ Tenho foco em **código limpo, otimizado e escalável**, utilizando boas prátic
         <br/>
         <sub>v7.1 | Pawn | SA-MP</sub>
         <br/>
-        <a href="https://github.com/SEU_USUARIO/gtavn-vidanova">
+        <a href="https://github.com/snoopyeditor/gtavn">
           <img src="https://img.shields.io/badge/Ver-Projeto-green?style=flat-square" alt="Ver Projeto"/>
         </a>
       </td>
@@ -79,8 +79,8 @@ Tenho foco em **código limpo, otimizado e escalável**, utilizando boas prátic
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" height="150" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snoopyeditor&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoopyeditor&layout=compact&theme=dark&hide_border=true" height="150" alt="top langs"/>
 
 </div>
 
