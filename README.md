@@ -25,7 +25,7 @@ Tenho foco em **código limpo, otimizado e escalável**, utilizando boas prátic
 - 🔭 Atualmente trabalhando no **GTAVN - Vida Nova RP**
 - 🌱 Estudando novas mecânicas de RP e otimização de servidores
 - 💼 Disponível para projetos freelance de Scripting e Mapping
--  Contate-me: [seuemail@exemplo.com](mailto:antoniolopesbrito12@gmail.com)
+-  Contate-me: [antoniolopesbrito12@gmail.com](mailto:antoniolopesbrito12@gmail.com)
 
 ---
 
