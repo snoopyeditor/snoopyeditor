@@ -47,22 +47,6 @@ Tenho foco em **código limpo, otimizado e escalável**, utilizando boas prátic
 - 🎨 **Textdraws:** Design de UIs, HUDs e Menus visuais.
 - 📂 **Data Systems:** Experiência com DOF2, MySQL e arquivos INI.
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=snoopyeditor&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoopyeditor&layout=compact&theme=dark&hide_border=true" height="150" alt="top langs"/>
-
-</div>
-
----
-
-<div align="center">
-
-  **Vamos criar algo épico juntos?** 🚀
-
-  <br/>
   <sub>Desenvolvido com ❤️ e café ☕</sub>
 
 </div>
